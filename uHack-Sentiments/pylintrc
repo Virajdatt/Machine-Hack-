@@ -1,0 +1,4 @@
+[BASIC]
+good-names=df,dt
+[FORMAT]
+max-line-length=150
