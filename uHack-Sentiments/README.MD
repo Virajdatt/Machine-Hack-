@@ -23,4 +23,4 @@ Polarity (Positive/Negative)
 
 Note: The target variables are all encoded in the train dataset for convenience. Please submit the test results in the similar encoded fashion for us to evaluate your results.
 
-## Add the initial EDA
+## Added the initial EDA to the notebooks folder
