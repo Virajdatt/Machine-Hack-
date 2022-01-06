@@ -15,6 +15,7 @@ Overall polarity (positive/negative sentiment)
 
  
 Train Set: 6136 rows x 14 columns
+
 Test Set : 2631 rows x 1 columns 
  
 
