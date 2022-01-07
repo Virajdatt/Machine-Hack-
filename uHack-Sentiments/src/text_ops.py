@@ -33,8 +33,8 @@ def lowercase_column(df: pd.DataFrame, col: str) -> pd.DataFrame:
     Returns:
         A DataFrame with column lowercased
     """
-    df[col] = df[col].apply(lowercase_string)
-    return df
+     
+    return df[col].apply(lowercase_string)
 
 def extract_capitals(df: pd.DataFrame, tclomun: str) -> pd.DataFrame:
 
@@ -45,7 +45,7 @@ def extract_hashtags():
     pass
 
 
-def clean_up(review, additional_list):
+def clean_up(review, additional_list=None):
     '''
     IMPROVE BY ADDING CAPABLITY TO CLEAN FREQUENT/RARE WORDS
     '''
